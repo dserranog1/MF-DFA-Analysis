@@ -1,2 +1,2 @@
 # MF-DFA-Analysis
-Exploratory analysis with a dataset using MF-DFA analysis by Kandelthart, et al.
+Exploratory analysis with a dataset using <em>Multi-Fractal Detrented Fluctuation Analysis</em> by Kandelthart, et al (2002).
